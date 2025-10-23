@@ -256,28 +256,28 @@ const Index = () => {
           </p>
           <div className="flex flex-wrap justify-center gap-4 text-sm text-muted-foreground">
             <Link 
-              to="/privacy" 
+              to="/MojiCount/privacy" 
               className="transition-colors hover:text-primary hover:underline"
             >
               プライバシーポリシー
             </Link>
             <span>•</span>
             <Link 
-              to="/cookie-policy" 
+              to="/MojiCount/cookie-policy" 
               className="transition-colors hover:text-primary hover:underline"
             >
               Cookieポリシー
             </Link>
             <span>•</span>
             <Link 
-              to="/terms" 
+              to="/MojiCount/terms" 
               className="transition-colors hover:text-primary hover:underline"
             >
               利用規約
             </Link>
             <span>•</span>
             <Link 
-              to="/legal" 
+              to="/MojiCount/legal" 
               className="transition-colors hover:text-primary hover:underline"
             >
               法的情報
