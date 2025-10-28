@@ -1,5 +1,6 @@
 {
   "dependencies": {
     "react-router-dom": "^7.9.4"
-  }
+  },
+  "homepage": "https://yamasora1006k.github.io/MojiCount"
 }
